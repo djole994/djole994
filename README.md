@@ -49,4 +49,4 @@ I've taught introductory programming classes and I maintain several WordPress si
 
 ---
 
-📫 **[djordjeradovic94@gmail.com](mailto:djordjeradovic94@gmail.com)** · [LinkedIn](www.linkedin.com/in/djordjeradovic) 
+📫 **[djordjeradovic94@gmail.com](mailto:djordjeradovic94@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/djordjeradovic) 
