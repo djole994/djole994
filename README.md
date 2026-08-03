@@ -12,7 +12,7 @@ I build and maintain production line-of-business systems end to end: database de
 ### Selected work
 
 **[E-Raspored](https://github.com/djole994/E-Raspored-docs)**, academic scheduling system
-Serves **2,500+ students and 240+ professors**, managing **22,000+ scheduled events**. Handles course scheduling, exam periods, room and instructor conflict detection, printable schedule views, and Google Calendar synchronization. Bilingual UI with a themeable design system.
+Serves **2,500+ students and 380+ professors**, managing **22,000+ scheduled events**. Handles course scheduling, exam periods, room and instructor conflict detection, printable schedule views, and Google Calendar synchronization. Bilingual UI with a themeable design system.
 `ASP.NET Core MVC` `EF Core` `SQL Server` `JavaScript`
 Source code is owned by my employer. This repository contains architecture notes, screenshots, and a walkthrough video.
 
