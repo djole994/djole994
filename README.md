@@ -17,7 +17,7 @@ Serves **2,500+ students and 380+ professors**, managing **22,000+ scheduled eve
 Source code is owned by my employer. This repository contains architecture notes, screenshots, and a walkthrough video.
 
 **[DentalPay](https://github.com/djole994/DentalPay)**, billing and invoicing for a multi-chair dental clinic
-Processes **10,000+ invoices per year**. Insurance coverage rules, patient billing, reporting, and export pipelines to XML, TXT, and XLS for third-party systems.
+Processes **5,000+ invoices per year**. Insurance coverage rules, patient billing, reporting, and export pipelines to XML, TXT, and XLS for third-party systems.
 `ASP.NET Core` `EF Core` `SQL Server`
 
 **[Faculty Alumni Platform](https://github.com/djole994/Faculty-Alumni-Platform)**, alumni network for a medical faculty
